@@ -1,0 +1,66 @@
+html, body {
+    
+}
+
+.header .container-fluid {
+    background: black;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.header .navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.header .navbar li a {
+    color: white;
+}
+
+.jumbotron {
+    background: url(https://cdn.pixabay.com/photo/2017/03/23/09/34/robot-2167836_960_720.jpg);
+    margin-bottom: 0;
+}
+
+.jumbotron h1 {
+    color: white;
+}
+
+.jumbotron p {
+    color: white;
+    font-weight: bold;
+}
+
+/*.container-fluid {
+    background
+}*/
+
+.container-fluid .row {
+    padding-bottom: 31px;
+}
+
+.container-fluid h3 {
+    color: red;
+}
+
+.container-fluid p {
+    color: orange;
+}
+
+.row p {
+    color: purple
+}
+
+.col-sm-3 img {
+    height: 100px;
+}
+
+footer {
+    background-color: black;
+    padding: 25px;
+    margin-bottom: 0;
+    color: white;
+}
